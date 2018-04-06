@@ -1,0 +1,6 @@
+[package]
+name = "area_rect"
+version = "0.1.0"
+authors = ["Nicolas Pochet <npochet@gmail.com>"]
+
+[dependencies]
