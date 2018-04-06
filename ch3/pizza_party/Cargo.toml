@@ -1,0 +1,6 @@
+[package]
+name = "pizza_party"
+version = "0.1.0"
+authors = ["Nicolas Pochet <npochet@gmail.com>"]
+
+[dependencies]
